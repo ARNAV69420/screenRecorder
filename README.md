@@ -1,6 +1,10 @@
 # screenRecorder
 Develop a lightweight CLI to screenrecord in X11. Uses ffmpeg, c++, python, and bash
 
+## Requirements
+- X11
+- ffmpeg
+
 ## Simple Usage
 ```usage [-h] [-a fps] [-s fps] [-t interval]```
 
